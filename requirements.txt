@@ -1,6 +1,7 @@
-numpy
-pandas
-matplotlib
-pillow
-streamlit
-tensorflow
+# Python 3.10 or 3.11 is recommended for TensorFlow compatibility.
+numpy==1.26.4
+pandas==2.2.2
+matplotlib==3.8.4
+Pillow==10.3.0
+streamlit==1.36.0
+tensorflow==2.16.1
