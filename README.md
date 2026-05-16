@@ -2,7 +2,7 @@
 
 NutriAI is an AI-powered nutrition assistant that detects likely food ingredients from an uploaded image and recommends relevant recipes from a curated recipe database. The project combines computer vision, TensorFlow model evaluation, SQLite data management, content-based recommendation, and a Streamlit user interface.
 
-## Recruiter Snapshot
+## Snapshot
 
 NutriAI was built as an end-to-end AI/Data Science portfolio project. It demonstrates how a trained computer vision model can be connected to a practical recommendation workflow: image upload, ingredient prediction, confidence-based ranking, SQLite recipe retrieval, nutrition-aware scoring, and interactive presentation in Streamlit.
 
