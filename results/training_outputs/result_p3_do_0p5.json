@@ -1,0 +1,14 @@
+﻿{
+  "phase": "dropout_rate",
+  "tag": "p3_do_0p5",
+  "training_version": "speed_accuracy_v2",
+  "learning_rate": 0.0003,
+  "batch_size": 16,
+  "dropout_rate": 0.5,
+  "best_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\best_p3_do_0p5.keras",
+  "final_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\final_p3_do_0p5.keras",
+  "best_val_accuracy": 0.9715099930763245,
+  "best_val_top5_accuracy": 0.9971510171890259,
+  "best_val_loss": 0.0970597192645073,
+  "epochs_trained": 30
+}

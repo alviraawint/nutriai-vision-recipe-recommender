@@ -1,0 +1,69 @@
+# Python cache/build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+nutriai_env/
+
+# Environment and local secrets
+.env
+.env.*
+!.env.example
+
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+
+# TensorFlow/Keras model artifacts
+*.keras
+*.h5
+*.hdf5
+*.pb
+*.tflite
+saved_model/
+checkpoints/
+
+# Keep the selected portfolio demo model if intentionally included
+!models/best_model.keras
+
+# Temporary experiment outputs
+outputs/
+wandb/
+mlruns/
+logs/
+*.log
+results/**/logs/
+results/**/checkpoints/
+results/**/*.tmp
+results/**/*.cache
+
+# Large local datasets and archived local files
+dataset/
+archive_unused/
+
+# Do not ignore portfolio documentation/assets
+!README.md
+!requirements.txt
+!docs/
+!docs/**
+!screenshots/
+!screenshots/**
+!sample_images/
+!sample_images/**

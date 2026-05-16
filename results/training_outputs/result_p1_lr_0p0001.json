@@ -1,0 +1,14 @@
+﻿{
+  "phase": "learning_rate",
+  "tag": "p1_lr_0p0001",
+  "training_version": "speed_accuracy_v2",
+  "learning_rate": 0.0001,
+  "batch_size": 32,
+  "dropout_rate": 0.3,
+  "best_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\best_p1_lr_0p0001.keras",
+  "final_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\final_p1_lr_0p0001.keras",
+  "best_val_accuracy": 0.9629629850387573,
+  "best_val_top5_accuracy": 0.9971510171890259,
+  "best_val_loss": 0.1119920164346695,
+  "epochs_trained": 30
+}

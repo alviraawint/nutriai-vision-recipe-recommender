@@ -1,0 +1,15 @@
+﻿{
+  "phase": "fine_tuned",
+  "tag": "fine_tuned_p2_bs_16",
+  "base_tag": "p2_bs_16",
+  "base_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\best_p2_bs_16.keras",
+  "best_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\fine_tuned_best_p2_bs_16.keras",
+  "final_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\fine_tuned_final_p2_bs_16.keras",
+  "learning_rate": 1e-05,
+  "batch_size": 16,
+  "fine_tune_last_layers": 30,
+  "epochs_trained": 10,
+  "best_val_accuracy": 0.9743589758872986,
+  "best_val_top5_accuracy": 1.0,
+  "best_val_loss": 0.08874304592609406
+}

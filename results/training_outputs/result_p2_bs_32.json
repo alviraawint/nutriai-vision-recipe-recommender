@@ -1,0 +1,14 @@
+﻿{
+  "phase": "batch_size",
+  "tag": "p2_bs_32",
+  "training_version": "speed_accuracy_v2",
+  "learning_rate": 0.0003,
+  "batch_size": 32,
+  "dropout_rate": 0.3,
+  "best_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\best_p2_bs_32.keras",
+  "final_model_path": "C:\\Users\\ALVIRA AWINT\\Documents\\nutriai\\outputs\\final_p2_bs_32.keras",
+  "best_val_accuracy": 0.9743589758872986,
+  "best_val_top5_accuracy": 0.994301974773407,
+  "best_val_loss": 0.11636728793382645,
+  "epochs_trained": 28
+}
