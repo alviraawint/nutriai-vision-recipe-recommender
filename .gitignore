@@ -1,6 +1,37 @@
-nutriai_env/
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+
+# Virtual environments
+nutriai_env/
+venv/
+.venv/
+env/
+
+# Project data & model artifacts (large / regenerable)
 dataset/
 outputs/
+
+# Streamlit
 .streamlit/secrets.toml
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Environment variables / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.idea/
+*.swp
+
+# Logs
+*.log
