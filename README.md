@@ -200,11 +200,9 @@ Evaluation on the held-out test set (best model: `best_p2_bs_16.keras`):
 
 ## Screenshots
 
-> _Screenshots to be added._
-
 | Home / Upload | Prediction | Recipe Recommendations |
 |---|---|---|
-| `docs/screenshot-home.png` | `docs/screenshot-prediction.png` | `docs/screenshot-recipes.png` |
+| ![Home / Upload screen](docs/screenshot-home.png) | ![Ingredient prediction result](docs/screenshot-prediction.png) | ![Recipe recommendations](docs/screenshot-recipes.png) |
 
 ---
 
