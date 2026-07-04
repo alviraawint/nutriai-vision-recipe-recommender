@@ -1,0 +1,6 @@
+nutriai_env/
+__pycache__/
+*.pyc
+dataset/
+outputs/
+.streamlit/secrets.toml
